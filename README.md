@@ -2,7 +2,7 @@
 
 
 My name is **Lotanna** and for fun I am a Frontend Developer who mostly writes technical articles for beginner web developers,
-for work I co-founded [JidiTrust](http://blog.jiditrust.com/)that helps small business owners in Africa get financial literacy education and collect payments easily and grow their businesses rapidly on one application. 
+for work I co-founded [JidiTrust](http://blog.jiditrust.com/) that helps small business owners in Africa get financial literacy education and collect payments easily and grow their businesses rapidly on one application. 
 
 Here are some ideas to get you started:
 
