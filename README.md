@@ -6,7 +6,7 @@ for work I co-founded [JidiTrust](http://blog.jiditrust.com/)that helps small bu
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on JidiTrust and web development content for beginners.
+- 🔭 I’m currently working on [JidiTrust](http://blog.jiditrust.com/) and web development content on [LogRocket](https://blog.logrocket.com/author/nwoselotanna/), Pusher, [Bits & Pieces](https://blog.bitsrc.io/@viclotana), Angular-in-Depth, [Scotch.io](https://scotch.io/@Viclotana), [Progress](https://www.telerik.com/blogs/author/nwose-lotanna) and [CodeBurst](https://codeburst.io/@viclotana).
 - 🌱 I’m currently learning about sales and marketing with Hubspot courses.
 - 👯 I’m looking to collaborate on cool open source projects.
 - 🤔 I’m looking for help with quality video content creation tips
